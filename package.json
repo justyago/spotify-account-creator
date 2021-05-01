@@ -1,0 +1,29 @@
+{
+  "name": "spotify-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "complate.js",
+  "dependencies": {
+    "chromedriver": "^90.0.0",
+    "node-fetch": "^2.6.1",
+    "node-random-name": "^1.0.1",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "webdriver": "^7.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon complate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justyago/spotify-account-creator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justyago/spotify-account-creator/issues"
+  },
+  "homepage": "https://github.com/justyago/spotify-account-creator#readme"
+}
